@@ -3,7 +3,6 @@ package com.surojit.firstApi.course;
 import com.surojit.firstApi.topic.Topic;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
 @Entity
